@@ -37,4 +37,8 @@ For detailed instructions and advanced workflows, see the [Wiki](../../wiki).
 - **Clothing Design:**  
   Bake specific body or pose morphs before exporting to clothing design tools like CLO3D or Marvelous Designer, ensuring garments fit your avatar's actual in-game shape.
 
+## Known Issues
+
+Body shape gets scaled up, you will need to scale it back down to it's original model's size
+
   :3
